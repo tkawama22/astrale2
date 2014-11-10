@@ -3,20 +3,20 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.hairsalon.shop"
+        id        = "com.akpp.astrale"
         version   = "1.0.0">
 
-    <name>hairsalonshop</name>
+    <name>Astrale</name>
 
     <description>
-        hairsalon demo appl
+        astrale hair style magazine
     </description>
 
-    <author href="http://360spot.net/shop/" email="adinfo@ashita-planning.asia">
+    <author href="http://www.astrale.mobi/" email="adinfo@ashita-planning.asia">
         AshitaPlanning
     </author>
 
-    <preference name="phonegap-version" value="3.5.0" />
+    <preference name="phonegap-version" value="3.6.3" />
     <preference name="android-minSdkVersion" value="14" /><!-- Android 4.0 is minimum supported -->
     <feature name="http://api.phonegap.com/1.0/device" />
     
